@@ -27,6 +27,6 @@
     },
     "dependencies": {
         "jsonc-parser": ">= 0.0.1",
-        "jsrsasign": ">= 4.8.2"
+        "jsrsasign": ">=11.0.0"
     }
 }
